@@ -1,0 +1,12 @@
+{
+  "name": "exo-fs-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:D-Savel/exo-fs-api.git",
+  "author": "D-Savel <dad.savel@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "readline-sync": "^1.4.10"
+  }
+}
